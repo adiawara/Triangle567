@@ -101,7 +101,7 @@ All project reports should include the following standard information in the fol
 
  
  
- 
+ [![build status of master](https://travis-ci.org/tsmith567/Triangle567.svg?branch=master)](https://travis-ci.org/tsmith567/Triangle567)
  
  
  
