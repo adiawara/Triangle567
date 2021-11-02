@@ -71,6 +71,7 @@ class TestTriangles(unittest.TestCase):
         except:
             print("Test Failed")
         else:print(Trianglefixed.classifyTriangle(8,6, -10))
+        
     def testIllegalInput_4(self):
         try:
             self.assertEqual('InvalidInput', Trianglefixed.classifyTriangle(1, 1, 0))
@@ -87,10 +88,10 @@ class TestTriangles(unittest.TestCase):
 
     def testIllegalInput_5(self):
         try:
-            self.assertEqual('InvalidInput', Trianglefixed.classifyTriangle(m, n, o))
+            self.assertEqual('InvalidInput', Trianglefixed.classifyTriangle(6.5, 7.5, 8.5))
         except:
             print("Test Failed")
-        else: print(Trianglefixed.classifyTriangle(m,n,o))
+        else: print(Trianglefixed.classifyTriangle(6.5,6.5,7.5))
 
 if __name__ == '__main__':
     print('Running unit tests')
