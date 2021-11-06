@@ -101,7 +101,7 @@ All project reports should include the following standard information in the fol
 
  
  
- [![build status of main](https://travis-ci.org/tsmith567/Triangle567.svg?branch=main)](https://travis-ci.org/tsmith567/Triangle567)
+ [![build status of main](https://travis-ci.org/adiawara/Triangle567.svg?branch=main)](https://travis-ci.org/adiawara/Triangle567)
  
  
  
